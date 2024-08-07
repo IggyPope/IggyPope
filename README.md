@@ -34,7 +34,7 @@
 # 💻 My Coding stats
 
 [![IggyPope's Stats](https://github-readme-stats.vercel.app/api?username=IggyPope&theme=monokai&show_icons=true&hide_border=true&count_private=true)](https://github.com/IggyPope/)
-[![Codewars](https://github.r2v.ch/codewars?user=rsschool_d1e2885120831029)](https://www.codewars.com/users/rsschool_d1e2885120831029)
+[![Codewars](https://github.r2v.ch/codewars?user=IggyPope)](https://www.codewars.com/users/IggyPope)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
